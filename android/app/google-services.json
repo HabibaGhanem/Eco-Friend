@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "377395246570",
+    "project_id": "gp-app-2cd02",
+    "storage_bucket": "gp-app-2cd02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377395246570:android:bf638626ea3f72d4e96e93",
+        "android_client_info": {
+          "package_name": "com.example.gp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377395246570-cisj5dif4kdc4k7l56645cimlhbqi2lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA2DJarKUf93V7pm5RTA1WdGWWkC6QdBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377395246570-cisj5dif4kdc4k7l56645cimlhbqi2lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377395246570:android:20b5295fc8b5c420e96e93",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377395246570-aulk85n0p5omp7uhdm4td2rfcaolddd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.graduation_project_app",
+            "certificate_hash": "8695c2be7779fcffc91a95d9e831ac6a5d3e9ce6"
+          }
+        },
+        {
+          "client_id": "377395246570-cisj5dif4kdc4k7l56645cimlhbqi2lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA2DJarKUf93V7pm5RTA1WdGWWkC6QdBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377395246570-cisj5dif4kdc4k7l56645cimlhbqi2lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
